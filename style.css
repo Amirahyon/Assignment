@@ -26,6 +26,7 @@ main {
 
 .picture {
     display: flex;
+    align-items: center;
 }
 
 .michelle {
@@ -35,6 +36,6 @@ main {
 }
 
 .date {
-    padding-top: 5px;
+    /* padding-top: 5px; */
     padding-left: 20px;
 }
